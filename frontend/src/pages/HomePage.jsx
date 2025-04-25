@@ -2,6 +2,7 @@ import React from 'react'
 import Heading from '../components/Heading'
 import Button from '../components/Button'
 
+
 function HomePage() {
     return (
         <div className='md:w-1/3 lg:w-1/4 bg-gray-100 min-h-screen flex flex-col items-center justify-end pb-10 gap-3 p-4'>
